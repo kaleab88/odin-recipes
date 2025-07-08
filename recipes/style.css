@@ -1,13 +1,14 @@
 * {
-    background-color: brown;
+    background-color: #d1d3ce;
     text-align: center;
 }
 
 h1 {
-    display: inline-block;
+    display: block;
     text-align: center;
-    background-color: azure;
+    background-color: #002f45;
     padding: 10px;
+    color: azure;
 }
 
 div {

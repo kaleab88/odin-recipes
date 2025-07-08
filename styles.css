@@ -1,0 +1,54 @@
+* {
+    background-color: rgb(223, 75, 7);
+}
+
+h1.header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(128, 7, 7);
+    color: aliceblue;
+    padding: 10px;
+}
+
+div.newline {
+    display: inline-block;
+}
+
+img.img {
+    margin: auto;
+    display: inline-block;
+}
+
+button {
+    background-color: rgb(128, 7, 7);
+}
+
+a.link {
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 5px;
+    border: 5px;
+    background-color: rgb(128, 7, 7);
+    color: rgb(245, 245, 245);
+}
+
+div {
+    font-size: 20px;
+    text-align: center;
+    margin: 15px 15px;
+}
+
+.img2 {
+    margin: auto 10px;
+}
+
+.newline2 {
+    display: inline-block;
+    justify-content: center;
+}
+
+.newline3 {
+    display: inline-block;
+    justify-content: end;
+}

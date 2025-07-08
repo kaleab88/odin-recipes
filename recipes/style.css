@@ -1,0 +1,38 @@
+* {
+    background-color: brown;
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    text-align: center;
+    background-color: azure;
+    padding: 10px;
+}
+
+div {
+    display: block;
+    align-content: center;
+}
+
+li {
+    text-align: left;
+}
+
+a {
+    display: inline-block;
+    background-color: rgb(255, 148, 9);
+    padding: 10px 20px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+p {
+    font-size: large;
+}
